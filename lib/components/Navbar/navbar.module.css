@@ -1,0 +1,33 @@
+#nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    
+
+}
+#logo p{
+    color: rgb(0, 0, 0);
+    font-size: 64px;
+    font-weight: bold;
+    
+}
+
+#navbar ul{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    list-style: none;
+    gap:30px;
+    font-size: 32px;
+    color: black;
+    }
+
+    #navbar li{
+        color: black;
+    }
+
+    #navbar a{
+        text-decoration: none;
+    }
+    

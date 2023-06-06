@@ -1,0 +1,30 @@
+#projects{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 15px 100px;
+}
+#txt{
+    
+    
+    font-size: 34px;
+    color: rgb(0, 0, 0);
+    width: 550px;
+}
+
+#projectimages{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    gap: 10px;
+    
+}
+#projectimages img{
+    margin: 60px;
+    width: 18%;
+    height: auto;
+  
+
+}
