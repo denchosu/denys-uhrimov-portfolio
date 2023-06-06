@@ -7,7 +7,7 @@ import style from './page.module.css'
 const Projects=()=>{
     return (<>
     <div id={style.projects}>
-        <p id={style.txt}>unfortunately i haven't done any projects yet so i'll show you some cool pixel pets</p>
+        <p id={style.txt}>unfortunately i havent done any projects yet so ill show you some cool pixel pets</p>
         <div id={style.projectimages}>
         <Image src={image} alt='img'></Image>
         <Image src={image2} alt='img2'></Image>
